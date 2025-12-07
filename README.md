@@ -124,7 +124,6 @@ quick_debug("How do I fix 'list index out of range' error?")
 # Run this cell to launch web interface
 demo.launch(share=True, debug=True)
 
-# Opens at http://127.0.0.1:7860
 # Get shareable public link automatically
 ```
 
