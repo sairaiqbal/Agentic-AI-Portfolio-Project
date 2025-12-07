@@ -30,7 +30,7 @@ An autonomous AI agent that reviews Python code, detects bugs, and suggests fixe
 ### Option 2: Run Locally
 ```bash
 # Download the notebook
-wget https://raw.githubusercontent.com/yourusername/codementor-ai/main/CodeMentor_AI.ipynb
+wget https://raw.githubusercontent.com/sairaiqbal/codementor-ai/main/CodeMentor_AI.ipynb
 
 # Open in Jupyter
 jupyter notebook CodeMentor_AI.ipynb
