@@ -18,7 +18,7 @@ An autonomous AI agent that reviews Python code, detects bugs, and suggests fixe
 
 ### Option 1: Run in Google Colab (Recommended)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/codementor-ai/blob/main/CodeMentor_AI.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sairaiqbal/codementor-ai/blob/main/CodeMentor_AI.ipynb)
 
 1. Click the "Open in Colab" button above
 2. Add your API keys to Colab Secrets (🔑 icon in left sidebar):
